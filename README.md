@@ -1,1 +1,2 @@
-My alx readme is cool
+My first readme
+i just edited my readme file 
